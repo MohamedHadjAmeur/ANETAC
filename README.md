@@ -17,6 +17,7 @@ This repository contains two folders:
 
 We note that first results using the transliteration data (the one in EN-AR Translit folder) has been already published in the work of Hadj Ameur et al. "Arabic Machine Transliteration using an Attention-based Encoder-decoder Model".
 
+## Citations
 If you want to use the ANETC dataset please cite the following paper:
 
 ```
@@ -35,3 +36,7 @@ keywords = "Natural Language Processing, Arabic Language, Arabic Transliteration
 abstract = "Transliteration is the process of converting words from a given source language alphabet to a target language alphabet, in a way that best preserves the phonetic and orthographic aspects of the transliterated words. Even though an important effort has been made towards improving this process for many languages such as English, French and Chinese, little research work has been accomplished with regard to the Arabic language. In this work, an attention-based encoder-decoder system is proposed for the task of Machine Transliteration between the Arabic and English languages. Our experiments proved the efficiency of our proposal approach in comparison to some previous research developed in this area."
 }
 ```
+
+## Contacts:
+For all questions please contact ``mohamedhadjameur@gmail.com`` 
+
