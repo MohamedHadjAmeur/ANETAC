@@ -1,6 +1,6 @@
 # ANETC: Arabic Named Entity Transliteration and Classification Dataset
 
-##Description
+## Description
 
 ANETC is an English-Arabic named entity transliteration and classification dataset that has been built as part of the research work made by [Hadj Ameur et al.] (https://www.sciencedirect.com/science/article/pii/S1877050917321774). 
 The dataset contains 79,924 English-Arabic named entities along with their respective classes that can be either a Person, a Location, or an Organization. 
@@ -8,7 +8,7 @@ The dataset contains 79,924 English-Arabic named entities along with their respe
 An example of the instances present in the dataset are provided in the below Table: 
 ![Cat](https://github.com/MohamedHadjAmeur/ANETC-Arabic-Named-Entity-Transliteration-and-Classification-Dataset/blob/master/image.png)
 
-##CONTENTS
+## CONTENTS
 
 
 This repository contains two folders:
