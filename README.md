@@ -1,13 +1,21 @@
-ANETC: Arabic Named Entity Transliteration and Classification Dataset
-ANETC is an English-Arabic named entity transliteration and classification dataset that has been built as part of the research work made by Hadj Ameur et al. "Arabic Machine Transliteration using an Attention-based Encoder-decoder Model" https://www.sciencedirect.com/science/article/pii/S1877050917321774. 
+** ** ANETC: Arabic Named Entity Transliteration and Classification Dataset _ _
+=============
+
+** ** ABOUT ANETC _ _
+=============
+
+ANETC is an English-Arabic named entity transliteration and classification dataset that has been built as part of the research work made by [Hadj Ameur et al.] (https://www.sciencedirect.com/science/article/pii/S1877050917321774). 
 The dataset contains 79,924 English-Arabic named entities along with their respective classes that can be either a Person, a Location, or an Organization. 
 
 An example of the instances present in the dataset are provided in the below Table: 
 ![Cat](https://github.com/MohamedHadjAmeur/ANETC-Arabic-Named-Entity-Transliteration-and-Classification-Dataset/blob/master/image.png)
 
+** ** CONTENTS _ _
+=============
+
 This repository contains two folders:
-1- EN-AR NE: which contains the English-Arabic named entities along with their classes as described in the above table.
-2- EN-AR Translit: is a benchmark that splits the above-mentioned transliteration data into train, development, and test sets for direct usage in English-Arabic transliteration tasks.
+* 1- EN-AR NE: which contains the English-Arabic named entities along with their classes as described in the above table.
+* 2- EN-AR Translit: is a benchmark that splits the above-mentioned transliteration data into train, development, and test sets for direct usage in English-Arabic transliteration tasks.
 
 We note that first results using the transliteration data (the one in EN-AR Translit folder) has been already published in the work of Hadj Ameur et al. "Arabic Machine Transliteration using an Attention-based Encoder-decoder Model".
 
