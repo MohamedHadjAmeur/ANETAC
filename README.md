@@ -15,6 +15,9 @@ This repository contains two folders:
 * EN-AR NE: which contains the English-Arabic named entities along with their classes as described in the above table.
 * EN-AR Translit: is a benchmark that splits the above-mentioned transliteration data into train, development, and test sets for direct usage in English-Arabic transliteration tasks.
 
+The count of the Person, Location and Organization named entities that are present in this transliteration dataset are provided in the below Table: 
+![Cat](https://github.com/MohamedHadjAmeur/ANETC-Arabic-Named-Entity-Transliteration-and-Classification-Dataset/blob/master/stats.png)
+
 ## Usage
 We note that first results using this EN-AR transliteration data (the one in EN-AR Translit folder) has been already published in the work of Hadj Ameur et al. "Arabic Machine Transliteration using an Attention-based Encoder-decoder Model".
 
