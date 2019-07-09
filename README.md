@@ -2,7 +2,7 @@
 
 ## Description
 
-ANETAC is an English-Arabic named entity transliteration and classification dataset that has been built as part of the research work made by [Hadj Ameur et al.] (https://www.sciencedirect.com/science/article/pii/S1877050917321774). 
+ANETAC is an English-Arabic named entity transliteration and classification dataset (https://arxiv.org/abs/1907.03110). 
 The dataset contains 79,924 English-Arabic named entities along with their respective classes that can be either a Person, a Location, or an Organization. 
 
 An example of the instances present in the dataset are provided in the below Table: 
@@ -22,7 +22,9 @@ The count of the Person, Location and Organization named entities that are prese
 We note that first results using this EN-AR transliteration data (the one in EN-AR Translit folder) has been already published in the work of Hadj Ameur et al. "Arabic Machine Transliteration using an Attention-based Encoder-decoder Model".
 
 ## Citations
-If you want to use the ANETC dataset please cite the following paper:
+If you want to use the ANETAC dataset please cite the following arXiv paper (https://arxiv.org/abs/1907.03110).
+
+The baseline results that have been obtained when using ANETAC are reported in the following publication:
 
 ```
 @article{HADJAMEUR2017287,
