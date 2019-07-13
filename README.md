@@ -21,11 +21,21 @@ The count of the Person, Location and Organization named entities that are prese
 We note that first results using this EN-AR transliteration data (the one in EN-AR Translit folder) has been already published in the work of Hadj Ameur et al. "Arabic Machine Transliteration using an Attention-based Encoder-decoder Model".
 
 ## Citations
-If you want to use the ANETAC dataset please cite the following arXiv paper (https://arxiv.org/abs/1907.03110).
+If you want to use the ANETAC dataset please cite the following arXiv paper:
+
+
+```
+@article{ameur2019anetac,
+  title={ANETAC: Arabic Named Entity Transliteration and Classification Dataset},
+  author={Ameur, Mohamed Seghir Hadj and Meziane, Farid and Guessoum, Ahmed},
+  journal={arXiv preprint arXiv:1907.03110},
+  year={2019}
+}
+```
 
 ## Baseline Results
 
-The baseline results that have been obtained when using ANETAC are reported in the following publication:
+The baseline results that have been obtained when using ANETAC are reported in the following publication (you are welcomed to compare your own results to our baseline transliteration models):
 
 ```
 @article{HADJAMEUR2017287,
